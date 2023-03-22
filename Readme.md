@@ -1,5 +1,4 @@
-the code will get all the past transactions that have been done on the uniswap.
-It will only get the Swap events and buy of the token. 
+the code will get all the swap events of token that have been bought on the uniswap.
 
 
 
